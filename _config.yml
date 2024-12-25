@@ -21,8 +21,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jasper.png"
   name             : "Sibo Zhang"
+  avatar           : "jasper.png"
   bio              : "practice makes perfect"
   location         : "China Beijing"
   employer         : "UCAS"
