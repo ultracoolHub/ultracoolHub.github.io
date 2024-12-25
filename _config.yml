@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Jasper"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Sibo Zhang"
-  location         : "Beijing"
-  employer         : "UCAS"z
+  location         : "China Beijing"
+  employer         : "UCAS"
   email            : "zhangsibo22@mails.ucas.ac.cn" 
 
   # Academic websites
