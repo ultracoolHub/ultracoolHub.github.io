@@ -1,13 +1,14 @@
 ---
-title: "Paper Title Number 4"
+title: "Faster and More Efficient Subject Image Generation for Text-to-Image Diffusion Models"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
+permalink: [/publication/2024-02-17-paper-title-number-4](https://ieeexplore.ieee.org/abstract/document/10831577)
+excerpt: 'Pending replenishment.'
+date: 2024-10
+venue: '2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC)'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+citation: 'Yu B, Yao Z, Wei J, et al. Faster and More Efficient Subject Image Generation for Text-to-Image Diffusion Models[C]//2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE, 2024: 148-154.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+In recent years, there has been significant progress in text-to-image generation models. However, text struggles to accurately describe abstract concepts like shapes and sizes. Some methods have been proposed to enhance text prompt by incorporating image prompts. While they have shown effective improvements, they either require substantial fine-tuning costs or struggle to effectively integrate text and image information.
+In our study, we delve into the issue of the difficulty in integrating text and image information in decoupled crossattention and conduct visual analysis. We identify the presence of background-related tokens in image features as a key factor affecting text fidelity. To address this issue, we develop an algorithm to filter out these tokens. Additionally, we observe differences in the attention of Unet layers to text prompts and image prompts. Based on this finding, we optimize the flow of image information to reduce interference with text information. In summary, we introduce a new topic-customized method that requires no repeated training. It trains a plugand-play image prompt adapter with only 417M parameters, lightweight yet powerful, surpassing existing models in both text and image consistency.
