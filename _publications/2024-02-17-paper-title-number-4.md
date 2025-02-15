@@ -6,7 +6,8 @@ permalink: [/publication/2024-02-17-paper-title-number-4](https://ieeexplore.iee
 excerpt: 'Pending replenishment.'
 date: 2024-10
 venue: '2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC)'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Yu B, Yao Z, Wei J, et al. Faster and More Efficient Subject Image Generation for Text-to-Image Diffusion Models[C]//2024 IEEE International Conference on Systems, Man, and Cybernetics (SMC). IEEE, 2024: 148-154.'
 ---
 
