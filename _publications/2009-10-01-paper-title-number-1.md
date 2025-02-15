@@ -2,7 +2,7 @@
 title: "A survey on advancements in image–text multimodal models: From general techniques to biomedical implementations"
 collection: publications
 category: manuscripts
-permalink: [/publication/2009-10-01-paper-title-number-1](https://www.sciencedirect.com/science/article/abs/pii/S0010482524007947)
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-6-6
 venue: 'Computers in Biilogy And Medicine'
