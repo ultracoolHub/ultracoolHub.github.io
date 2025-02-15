@@ -5,6 +5,8 @@ category: Journal
 permalink: [/publication/2009-10-01-paper-title-number-1](https://www.sciencedirect.com/science/article/abs/pii/S0010482524007947)
 date: 2024-6-6
 venue: 'Computers in Biilogy And Medicine'
+slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
+paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
