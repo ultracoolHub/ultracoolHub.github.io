@@ -1,6 +1,5 @@
 ---
-title: "A survey on advancements in image–text multimodal models: From general
-techniques to biomedical implementations"
+title: "A survey on advancements in image–text multimodal models: From general techniques to biomedical implementations"
 collection: publications
 category: Journal
 permalink: [/publication/2009-10-01-paper-title-number-1](https://www.sciencedirect.com/science/article/abs/pii/S0010482524007947)
