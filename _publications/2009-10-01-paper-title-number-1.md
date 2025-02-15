@@ -3,7 +3,7 @@ title: "A survey on advancements in image–text multimodal models: From general
 collection: publications
 category: Jounal
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: ''
+excerpt: 'Pending replenishment'
 date: 2024-6-6
 venue: 'Computers in Biilogy And Medicine'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
