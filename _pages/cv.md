@@ -15,8 +15,7 @@ Education
 
 Work experience
 ======
-* Spring 2025: Research Assistant
-  * Tianjin University
+* Spring 2025: Research Assistant in Tianjin University
   
 
   
