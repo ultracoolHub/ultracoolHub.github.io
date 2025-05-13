@@ -11,11 +11,12 @@ redirect_from:
 
 Education
 ======
-* M.S. in Beijing, University of Chinese Academy of Sciences, 2025
+* IME Ph.D. in Tianjin, Tianjin University, 2025-2029
+* CS M.S. in Beijing, University of Chinese Academy of Sciences, 2022-2025
 
 Work experience
 ======
-* Spring 2025: Research Assistant in Tianjin University
+
 
 
 
