@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing an IME PhD at [Tianjin University](https://www.tju.edu.cn/). My research interest includes Brain-inspired Intelligence and Embodied Intelligence. 
+I am currently pursuing an IME PhD at [Tianjin University](https://www.tju.edu.cn/). My research interests include Brain-inspired Intelligence and Embodied Intelligence. 
 
 [Email](mailto:zhangsibo22@mails.ucas.ac.cn) / [Github](https://github.com/ultracoolHub) 
 
