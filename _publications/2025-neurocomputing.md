@@ -3,5 +3,5 @@ title: "Brain-inspired Computing Based on Deep Learning for Human-computer Inter
 category: manuscripts
 authors: Bihui Yu, Sibo Zhang, Lili Zhou, Jingxuan Wei, Linzhuang Sun, Liping Bu
 venue: Neurocomputing, 130928
-date: 2025
+year: 2025
 ---
